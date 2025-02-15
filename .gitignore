@@ -1,1 +1,46 @@
-/venv
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+*.env
+
+# Dependencies
+*.egg-info/
+dist/
+build/
+
+# Logs & Debug files
+*.log
+*.out
+*.err
+
+# Dataset files
+*.csv
+*.json
+*.xlsx
+
+# Model files
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# FastAPI cache
+*.db
+*.sqlite3
+
+# Ignore MacOS files
+.DS_Store
