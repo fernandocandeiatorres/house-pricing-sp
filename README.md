@@ -1,4 +1,3 @@
-Still improving model..
+To run api -> uvicorn api.main:app --host 0.0.0.0 --port 8000 --reload ( on project main root )
 
-In the last cell user can pass real world input to see model predict price.
-
+To run front end -> npm run dev ( on frontend root )
